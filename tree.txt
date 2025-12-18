@@ -1,0 +1,94 @@
+﻿├── backend
+│   ├── controller
+│   │   ├── order.js
+│   │   ├── reservation.js
+│   ├── database
+│   │   ├── dbConnection.js
+│   ├── middlewares
+│   │   ├── error.js
+│   ├── models
+│   │   ├── order.js
+│   │   ├── reservation.js
+│   ├── routes
+│   │   ├── orderRoute.js
+│   │   ├── reservationRoute.js
+│   ├── app.js
+│   ├── config.env
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── server.js
+│   ├── vercel.json
+├── frontend
+│   ├── public
+│   │   ├── about.png
+│   │   ├── background.svg
+│   │   ├── breakfast1.png
+│   │   ├── center.svg
+│   │   ├── dinner1.jpeg
+│   │   ├── dinner2.png
+│   │   ├── dinner3.png
+│   │   ├── dinner4.png
+│   │   ├── dinner5.png
+│   │   ├── dinner6.png
+│   │   ├── fast_delivery.svg
+│   │   ├── hero1.png
+│   │   ├── hero2.png
+│   │   ├── logo.png
+│   │   ├── logo.svg
+│   │   ├── logo_noBg.png
+│   │   ├── lunch1.png
+│   │   ├── notFound.svg
+│   │   ├── quality_food.svg
+│   │   ├── reservation.png
+│   │   ├── reservation_bg.png
+│   │   ├── reserve.svg
+│   │   ├── review_1.png
+│   │   ├── review_2.png
+│   │   ├── review_3.png
+│   │   ├── sandwich.png
+│   │   ├── super_taste.svg
+│   │   ├── team_member_1.png
+│   │   ├── team_member_2.png
+│   │   ├── team_member_3.png
+│   │   ├── team_member_4.png
+│   │   ├── threelines.svg
+│   │   ├── vite.svg
+│   │   ├── whoweare.png
+│   ├── src
+│   │   ├── assets
+│   │   │   ├── css
+│   │   │   │   ├── styles.css
+│   │   ├── components
+│   │   │   ├── About.jsx
+│   │   │   ├── Footer.jsx
+│   │   │   ├── HeroSection.jsx
+│   │   │   ├── Menu.jsx
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── OrderCart.jsx
+│   │   │   ├── Qualities.jsx
+│   │   │   ├── Reservation.jsx
+│   │   │   ├── Team.jsx
+│   │   │   ├── WhoAreWe.jsx
+│   │   ├── contexts
+│   │   │   ├── CartContext.jsx
+│   │   ├── Pages
+│   │   │   ├── Home
+│   │   │   │   ├── Home.jsx
+│   │   │   ├── NotFound
+│   │   │   │   ├── NotFound.jsx
+│   │   │   ├── Success
+│   │   │   │   ├── Success.jsx
+│   │   ├── App.css
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   ├── restApi.json
+│   ├── .eslintrc.cjs
+│   ├── .gitignore
+│   ├── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── README.md
+│   ├── vite.config.js
+├── .gitignore
+├── how to create tree.txt
+├── tree.txt
