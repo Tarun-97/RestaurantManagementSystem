@@ -13,6 +13,7 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:5173",
+  "https://restaurantmanagementsystem-z8za.onrender.com"
 ];
 
 app.use(
